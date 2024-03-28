@@ -21,11 +21,11 @@
     },
     "./lite": {
       "import": {
-        "types": "./clsx.d.mts",
+        "types": "./clsx-lite.d.mts",
         "default": "./dist/lite.mjs"
       },
       "default": {
-        "types": "./clsx.d.ts",
+        "types": "./clsx-lite.d.ts",
         "default": "./dist/lite.js"
       }
     }
