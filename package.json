@@ -7,6 +7,14 @@
   "unpkg": "dist/clsx.min.js",
   "main": "dist/clsx.js",
   "types": "clsx.d.ts",
+  "typesVersions": {
+    "*": {
+      "lite": [
+        "./clsx-lite.d.mts",
+        "./clsx-lite.d.ts"
+      ]
+    }
+  },
   "license": "MIT",
   "exports": {
     ".": {
